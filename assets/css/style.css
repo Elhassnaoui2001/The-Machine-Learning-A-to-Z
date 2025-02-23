@@ -1319,3 +1319,22 @@ address {
   .container { max-width: 1180px; }
 
 }
+
+
+.logo {
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+}
+
+.logo h4 {
+  font-size: 24px; /* Adjust for preferred size */
+  font-weight: bold;
+  color: white;
+  transition: color 0.3s ease-in-out, transform 0.2s ease-in-out;
+}
+
+.logo:hover h4 {
+  color: darkblue; /* Slightly darker blue on hover */
+  transform: scale(1.05); /* Small zoom effect */
+}
