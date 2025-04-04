@@ -1,1 +1,1 @@
-This is a sample file added for testing purposes.
+This is a newly added file for testing purposes in the branch.
